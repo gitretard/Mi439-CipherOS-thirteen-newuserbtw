@@ -26,4 +26,4 @@ Now here is how to install CipherOS on your device :
 2.6 Reboot to system
 
 Thats it first time writng an essay willingfully?
-Ahhhhh github messed it up
+Ahhhh github messed it up
