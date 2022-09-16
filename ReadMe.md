@@ -12,7 +12,7 @@ Now here is how to install CipherOS on your device :
 1.6 Proceed to install other things (i.e Gapps,Magisk).
 1.7 Reboot your system.
 1.8 Hope CipherOS boots and if it does.. congratulations!.
-1.9 IF it doesnt boot refer to CipherOS telegram support group or your device specific group.
+1.9 IF it doesnt boot refer to CipherOS telegram support group or your device specific group. [CipherOS telegra support group](https://www.telegram.me/CipherOS_Chat)
 
 2. Specifically for Mi439 devices with Retrofit Dynamic Partitions and is A only (If you are using a Mi439 device but without RDP check our telegram support group and channels like https://t.me/mi_sdm439).
 2.0 This will be more striaght forward since most users know how to do it if not check the group and channels. I reccomend you refer to installation instructions here : https://t.me/mi_sdm439/416.
